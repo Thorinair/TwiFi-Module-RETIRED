@@ -2,7 +2,7 @@
  * WiFi Configuration
  *******/
 
-/* RENAME THIS FILE TO "ConfigurationWiFi.h" TO GET STARTED.
+/****** RENAME THIS FILE TO "ConfigurationWiFi.h" TO GET STARTED. ******/
 
 /* Name of the device, as visible on the WiFi network. */
 #define WIFI_HOST "TwiFi_Example"
