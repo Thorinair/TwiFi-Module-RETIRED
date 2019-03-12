@@ -61,4 +61,4 @@
 #define EEPROM_WIFI  1
 
 /* Whether the WiFi connection should be debugged. */
-#define WIFI_DEBUG false
+#define WIFI_DEBUG true
