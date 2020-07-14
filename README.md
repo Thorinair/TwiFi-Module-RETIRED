@@ -1,4 +1,4 @@
-**NOTE: This repository is now retired and should no longer be used. I am currently working on a new proper library for this.**
+**NOTE: This repository is now retired and should no longer be used. Use this instead: [TwiFi](https://github.com/Thorinair/TwiFi)**
 
 # TwiFi Module (RETIRED)
 TwiFi is a simple software module which allows you to easily manage the WiFi connections on your ESP8266. The module works like a template. It is designed to be placed directly into your project as the code should be modified to your needs, along with the configuration file. Please check the contents of the files and look for comments starting with `/****** [ADD CODE]`.
